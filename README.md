@@ -26,4 +26,4 @@ make
 
 # Tech
 
-C++ • OOP • Numerical Methods • Computational Finance
+C++ • OOP • Simulation & Modeling • Computational Finance
